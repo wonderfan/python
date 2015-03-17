@@ -1,4 +1,4 @@
 Python
 ======
 
-Use this repository to write down my python development
+Use this repository to write down my Python development

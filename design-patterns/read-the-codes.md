@@ -5,3 +5,4 @@
 - Adapter: adapt one interface to another using whitelist
 - Bridge: a client-provider middleman to soften interface changes
 - Builder: call many little discrete methods rather than having a huge number of constructor parameters
+- Catalog: general methods will call different specialized methods based on construction parameter

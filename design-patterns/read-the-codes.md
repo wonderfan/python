@@ -15,3 +15,4 @@
 - Flyweight: ransparently reuse existing instances of objects with similar/identical state
 - Mediator:an object that knows how to connect other objects and act as a proxy
 - Observer: provide a callback for notification of events/changes to data
+- Pool: preinstantiate and maintain a group of instances of the same type

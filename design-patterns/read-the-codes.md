@@ -18,3 +18,6 @@
 - Pool: preinstantiate and maintain a group of instances of the same type
 - Prototype: use a factory and clones of a prototype for new instances (if instantiation is expensive)
 - Proxy: an object funnels operations to something else
+- Stratedy: selectable operations over the same data
+- Template: an object imposes a structure but takes pluggable components
+- Visitor: invoke a callback for all items of a collection

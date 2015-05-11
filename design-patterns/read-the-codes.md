@@ -16,3 +16,5 @@
 - Mediator:an object that knows how to connect other objects and act as a proxy
 - Observer: provide a callback for notification of events/changes to data
 - Pool: preinstantiate and maintain a group of instances of the same type
+- Prototype: use a factory and clones of a prototype for new instances (if instantiation is expensive)
+- Proxy: an object funnels operations to something else

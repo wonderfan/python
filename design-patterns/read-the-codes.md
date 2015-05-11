@@ -9,3 +9,5 @@
 - Chain: apply a chain of successive handlers to try and process the data
 - Chaining method: continue callback next object method
 - Command: bundle a command and arguments to call later
+- Composite: encapsulate and provide access to a number of different objects
+- Decorator: wrap functionality with other functionality in order to affect outputs

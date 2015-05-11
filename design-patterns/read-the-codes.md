@@ -11,3 +11,7 @@
 - Command: bundle a command and arguments to call later
 - Composite: encapsulate and provide access to a number of different objects
 - Decorator: wrap functionality with other functionality in order to affect outputs
+- Facade: use one class as an API to a number of others
+- Flyweight: ransparently reuse existing instances of objects with similar/identical state
+- Mediator:an object that knows how to connect other objects and act as a proxy
+- Observer: provide a callback for notification of events/changes to data

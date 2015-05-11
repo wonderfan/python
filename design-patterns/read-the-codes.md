@@ -7,3 +7,4 @@
 - Builder: call many little discrete methods rather than having a huge number of constructor parameters
 - Catalog: general methods will call different specialized methods based on construction parameter
 - Chain: apply a chain of successive handlers to try and process the data
+- Chaining method: continue callback next object method

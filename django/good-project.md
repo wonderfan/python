@@ -1,1 +1,1 @@
-### Good Django Project
+### Good Django Projects

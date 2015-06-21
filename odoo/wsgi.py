@@ -31,6 +31,5 @@ def application_unproxied(environ, start_response):
     start_response('404 Not Found', [('Content-Type', 'text/plain'), ('Content-Length', str(len(response)))])
     return [response]        
 
-
 root = Root()
 openerp.service.wsgi_server.register_wsgi_handler(root)

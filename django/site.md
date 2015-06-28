@@ -6,3 +6,4 @@
 - [spaceio](http://spaceio.com/)
 - [socialcheck](https://socialcheck.com/)
 - [ecleanit](https://ecleanit.com/)
+- [thesweetestdeal](http://www.thesweetestdeal.com/)

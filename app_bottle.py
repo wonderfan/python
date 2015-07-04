@@ -1,5 +1,8 @@
 from bottle import route, run,request, response
 # route is used to mapp the url to controller function
+# request is used to get the request parameter and data
+# response is used as the return result after request processing
+# run is used to start the http server and request handler
 import os
 import json
 import pprint

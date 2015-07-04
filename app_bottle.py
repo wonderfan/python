@@ -1,4 +1,5 @@
 from bottle import route, run,request, response
+# route is used to mapp the url to controller function
 import os
 import json
 import pprint

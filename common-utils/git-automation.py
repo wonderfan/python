@@ -1,4 +1,5 @@
 import envoy
+from selenium import webdriver
 
 def main():
     repo = 'git@github.com:wonderfan/python.git'
@@ -8,7 +9,12 @@ def main():
     envoy.run("git add * ",cwd=cwd)
     envoy.run('git commit -m "this is test"',cwd=cwd)
     envoy.run("git push origin master")
-    
+
+def get_screenshot():
+    driver = webdriver.Firefox()
+    driver.get("http://www.msn.com")
+    driver.save_screenshot("test.png")
+    driver.close()
 
 if __name__ == '__main__':
     main()

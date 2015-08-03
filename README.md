@@ -21,3 +21,5 @@ Use this repository to write down my Python development
 - [Django CMS](https://github.com/divio/django-cms)
 
 ### Ecommerce System
+
+- [Django OSCAR](https://github.com/django-oscar/django-oscar)

@@ -7,3 +7,5 @@ BeautifulSoup(markup, "html5lib")
 
 for link in soup.find_all('a'):
     print(link.get('href'))
+
+soup.select(".sister")

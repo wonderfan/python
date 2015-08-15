@@ -8,6 +8,7 @@ class BaseSpider(Spider):
     name = 'base'
     start_urls = ['http://www.msn.com']
     allowed_domains = ["www.msn.com"]
+    custom_settings = {'DOWNLOAD_HANDLERS': {'s3': None}}
     
     def parse(self, response):
         soup = bs(response.body,'lxml')

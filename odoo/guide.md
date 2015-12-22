@@ -5,3 +5,4 @@
 5. function object--> __dict__;
 6. object[] --> __getitem__;
 7. object.attr --> __getattr__;
+8. tracepad for python development

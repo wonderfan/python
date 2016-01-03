@@ -8,3 +8,11 @@
 
 - use the `vars` section;
 - use the `vars_files` section
+
+### Debug
+
+- debug module;
+- verbose mode;
+- task list
+- check 
+- steps

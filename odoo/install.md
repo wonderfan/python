@@ -40,3 +40,7 @@ try this practise in future
   ```
    ./odoo.py --addons-path=addons --db-filter=mydb
   ```
+
+7. Error fixes
+ - change port:  config['xmlrpc_port'] = 8080
+ - compile error:  sudo apt-get install python-dev 

@@ -38,5 +38,5 @@
   ```
 
 7. Error fixes
- - change port:  config['xmlrpc_port'] = 8080
+ - change port:  config['xmlrpc_port'] = 8080 config['db_template'] = 'template0'
  - compile error:  sudo apt-get install python-dev 

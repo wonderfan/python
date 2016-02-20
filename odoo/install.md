@@ -31,3 +31,9 @@ try this practise in future
   ```
 
 5. install css less tools
+
+  ```
+   sudo npm install -g less less-plugin-clean-css
+  ```
+  
+6. Running Odoo

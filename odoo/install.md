@@ -37,3 +37,6 @@ try this practise in future
   ```
   
 6. Running Odoo
+  ```
+   ./odoo.py --addons-path=addons --db-filter=mydb
+  ```

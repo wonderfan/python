@@ -12,6 +12,8 @@ try this practise in future
   - https://community.c9.io/t/setting-up-postgresql/1573
   - http://www.postgresql.org/docs/9.1/static/sql-commands.html
   - http://www.postgresql.org/docs/9.4/static/app-psql.html
+  - http://www.tutorialspoint.com/postgresql/index.htm
+  - https://www.commandprompt.com/ppbook/c4890
 
 3. create postgrel user and role: 
 
@@ -22,7 +24,7 @@ try this practise in future
   postgres=# CREATE USER "ubuntu"
   ```
 
-4. install the dependencies:
+4. install the dependencies
 
   ```
    pip install -r requirements.txt

@@ -8,4 +8,5 @@
 8. tracepad for python development
 9. http,orm model and database pool;
 10. MVC and View part;
-11. Model and AbstractModel
+11. Model and AbstractModel;
+12. The t tag in the xml data file;

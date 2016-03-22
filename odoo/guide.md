@@ -11,3 +11,4 @@
 11. Model and AbstractModel;
 12. The t tag in the xml data file;
 13. javascript ajax and service container;
+14. extend and mixin

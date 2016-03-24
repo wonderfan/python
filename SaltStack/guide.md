@@ -1,3 +1,5 @@
 ### Concepts and Terms
 
-- master and minion
+- master and minion;
+- template and render;
+- formula and grains

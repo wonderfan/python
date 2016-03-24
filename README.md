@@ -13,8 +13,8 @@ Use this repository to write down my Python development
 
 ### Framework
 
-- [Django]()
-- [Flask]()
+- [Django](https://github.com/django)
+- [Flask](https://github.com/mitsuhiko/flask)
 
 ### Content Management System
 

@@ -9,3 +9,4 @@
 - https://github.com/klen/python-mode
 - https://github.com/mbrochh/vim-as-a-python-ide
 - https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/
+- http://docs.python-guide.org/en/latest/dev/env/

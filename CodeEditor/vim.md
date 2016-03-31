@@ -5,3 +5,4 @@
 ### The reference links
 
 - https://wiki.python.org/moin/Vim
+- https://github.com/klen/python-mode

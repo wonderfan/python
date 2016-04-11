@@ -5,3 +5,4 @@
 5. zaqar
 6. munaro
 7. cmd->client->api->rpc client->engine service->model
+8. heat+cloud init + metadata service

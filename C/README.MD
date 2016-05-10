@@ -2,6 +2,8 @@
 
 - pointer
 - struct
+- function and function pointer
+- standard library
 
 
 

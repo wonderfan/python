@@ -8,6 +8,7 @@
 ### Package manager
 
 - clib
+- [awesome c](https://notabug.org/koz.ross/awesome-c)
 
 
 

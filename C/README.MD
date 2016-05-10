@@ -5,7 +5,7 @@
 
 
 
-### package manager
+### Package manager
 
 - clib
 
@@ -15,3 +15,5 @@
 
 - C standard library
 - BSD SOCKET interface
+- ZeroMQ API
+- [nanomsg](https://github.com/nanomsg/nanomsg)

@@ -3,7 +3,7 @@
 - pointer
 - struct
 - function and function pointer
-- standard library
+- name mangling like namespace
 
 
 

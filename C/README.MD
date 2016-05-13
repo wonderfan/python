@@ -4,6 +4,7 @@
 - struct
 - function and function pointer
 - name mangling like namespace
+- c++ extension: class,template
 
 
 

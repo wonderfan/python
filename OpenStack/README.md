@@ -1,4 +1,4 @@
-### Write down how to learn OpenStack
+## OpenStack Path
 
 ### Client SDK
 
@@ -6,6 +6,13 @@
 - jcloud
 - openstack4j
 
+### Release
+
+- http://releases.openstack.org/mitaka/index.html
+
+### Development
+
+- 
 
 ### Reference Links:
 

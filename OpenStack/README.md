@@ -12,7 +12,12 @@
 
 ### Development
 
-- 
+- https://github.com/openstack-dev
+
+### Stable
+
+- https://github.com/openstack
+
 
 ### Reference Links:
 

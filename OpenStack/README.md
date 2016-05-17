@@ -8,7 +8,7 @@
 
 ### Release
 
-- http://releases.openstack.org/mitaka/index.html
+- http://releases.openstack.org/index.html
 
 ### Development
 

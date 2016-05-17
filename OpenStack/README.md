@@ -21,5 +21,6 @@
 
 ### Reference Links:
 
-1. http://docs.openstack.org/developer/openstack-projects.html
-2. http://docs.openstack.org
+1. http://docs.openstack.org
+2. http://developer.openstack.org
+3. http://docs.openstack.org/developer/openstack-projects.html

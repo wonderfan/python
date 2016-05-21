@@ -7,4 +7,5 @@
 5. https://github.com/pmaupin/pdfrw
 6. https://github.com/mfenniak/pyPdf
 7. https://github.com/euske/pdfminer
+8. https://github.com/itext/itextpdf
 

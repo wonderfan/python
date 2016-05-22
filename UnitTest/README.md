@@ -2,3 +2,6 @@
 
 - unittest
 - mock
+- py.test
+- nose
+- tox

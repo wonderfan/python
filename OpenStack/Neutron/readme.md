@@ -15,3 +15,4 @@
 - API
 - plugin
 - driver
+- extension

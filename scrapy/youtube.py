@@ -34,7 +34,7 @@ class MainTest(unittest.TestCase):
         for element in link_elements:
             if len(element.text) > 5:
                 name = element.text
-                f.writerow([name.encode('utf-8'),'    '+ element.get_attribute("href")])
+                f.writerow([name.encode('utf-8'),"   "+ element.get_attribute("href")])
     
 if __name__ == '__main__':
     unittest.main()    

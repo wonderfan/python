@@ -9,3 +9,5 @@ source ~/workspace/env/bin/activate
 pip install selenium
 
 pip install xvfbwrapper
+
+pip install youtube-dl

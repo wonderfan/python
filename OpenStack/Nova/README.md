@@ -4,3 +4,6 @@
 - Conductor
 - RCP Messaging
 - Scheduler
+- Notification event types
+
+

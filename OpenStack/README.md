@@ -18,6 +18,12 @@
 
 - https://github.com/openstack
 
+### Similar Products
+
+- [eucalyptus](https://github.com/eucalyptus/eucalyptus)
+- [cloudstack](https://github.com/apache/cloudstack)
+- [zstack](https://github.com/zstack)
+
 
 ### Reference Links:
 

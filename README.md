@@ -30,6 +30,11 @@ Use this repository to write down my Python development
 - SaltStack
 - Celery
 
+### Daemon
+
+- python-daemon
+
+
 ### Data Analysis
 
 - pandas

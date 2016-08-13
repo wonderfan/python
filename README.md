@@ -39,6 +39,10 @@ Use this repository to write down my Python development
 
 - pandas
 
+### SVG and UML
+- pygal
+- suml
+
 ### Search Keywords
 
 ` language:Python stars:>1000 forks:>500 `

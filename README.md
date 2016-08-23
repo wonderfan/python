@@ -33,6 +33,8 @@ Use this repository to write down my Python development
 ### Daemon
 
 - python-daemon
+- blueprint
+- shutit
 
 
 ### Data Analysis

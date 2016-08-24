@@ -40,6 +40,8 @@ Use this repository to write down my Python development
 ### Data Analysis
 
 - pandas
+- numpy
+- scipy
 
 ### SVG and UML
 - pygal

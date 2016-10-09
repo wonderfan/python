@@ -1,4 +1,4 @@
-### Basic element
+### Basic elements
 
 1. swith
 2. router
@@ -16,3 +16,13 @@
 - plugin
 - driver
 - extension
+
+### Network model
+
+- physical layer
+- data link layer
+- network layer
+- transport layer
+- session/connection layer
+- presentation layer
+- application layer

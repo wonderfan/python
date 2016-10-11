@@ -1,0 +1,3 @@
+### Internal Aspect
+
+- image metadata

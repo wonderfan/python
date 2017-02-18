@@ -36,6 +36,9 @@ Use this repository to write down my Python development
 - blueprint
 - shutit
 
+### Asynchronous Pattern
+- Twisted
+- Promise
 
 ### Data Analysis
 

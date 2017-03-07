@@ -29,6 +29,7 @@ Use this repository to write down my Python development
 - Ansible
 - SaltStack
 - Celery
+- RabbitMQ
 
 ### Daemon
 

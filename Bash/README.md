@@ -1,6 +1,6 @@
 # The Bash Pocket
 
-## variables
+## Variables
 
 - variable substitution
 - variable assignment

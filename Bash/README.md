@@ -4,4 +4,4 @@
 
 - variable substitution
 - variable assignment
-- buildin variables
+- builtin variables

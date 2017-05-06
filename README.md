@@ -61,6 +61,6 @@ Use this repository to write down my Python development
 - [kimchi](https://github.com/kimchi-project/kimchi)
 - spark
 
-### Search Keywords
+###  To-be-read
 
-` language:Python stars:>1000 forks:>500 `
+- [ADS](http://interactivepython.org/runestone/static/pythonds/index.html)

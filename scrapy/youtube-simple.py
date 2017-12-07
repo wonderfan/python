@@ -10,7 +10,7 @@ class SimpleTest(unittest.TestCase):
     def test_download(self):
         url = "http://www.youtube.com/results?q=python regular expression"
         response = requests.get(url)
-        tree   = etree.parse(StringIO(response.text), etree.HTMLParser())
+        tree = etree.parse(StringIO(response.text), etree.HTMLParser())
         link_list = tree.xpath("//a[contains(@href,'watch')]")
         uid = str(uuid.uuid4())
         print(">>> "+ uid)
